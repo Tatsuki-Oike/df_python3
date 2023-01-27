@@ -1,0 +1,1 @@
+print(f"module.pyでの__name__: {__name__}")
